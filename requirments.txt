@@ -8,4 +8,4 @@ requests
 json
 torch
 pandas
-sentence-transformers
+transformers
