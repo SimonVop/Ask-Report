@@ -1,11 +1,11 @@
-streamlit
+streamlit as st
 Embedding
 Extraction
 Authent
 csv
-fizz
+pdfplumber
 requests
 json
 torch
 pandas
-sentence-transformers
+transformers
