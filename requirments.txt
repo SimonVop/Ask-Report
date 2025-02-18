@@ -7,5 +7,7 @@ pdfplumber
 requests
 json
 torch
-pandas
+pandasm as pd
 transformers
+datasets
+faiss
