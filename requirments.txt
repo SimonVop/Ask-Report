@@ -1,0 +1,11 @@
+streamlit
+Embedding
+Extraction
+Authent
+csv
+fizz
+requests
+json
+torch
+pandas
+sentence-transformers
